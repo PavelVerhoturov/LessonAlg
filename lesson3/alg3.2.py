@@ -4,7 +4,6 @@ from random import randint
 array_num = []
 for i in range(10):
     array_num.append(randint(0, 100))
-    
 print(f'Массив - {array_num}')
 # Четные индексы первого масива
 
